@@ -1,0 +1,14 @@
+# Credenciales: cada integrante tiene el suyo
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Editores / sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
